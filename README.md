@@ -1,1 +1,0 @@
-# aisj-survey-application
